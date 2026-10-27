@@ -7,6 +7,7 @@
 **Discrete Electromechanical Architecture • Compiler Toolchains • Interactive Digital Twin**
 
 [![Website](https://img.shields.io/badge/Website-relaycomputer.org-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://relaycomputer.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Chat_%23relaycomputer-00b176?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/#relaycomputer:matrix.org)
 [![YouTube](https://img.shields.io/badge/YouTube-@RelayComputerProject-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@RelayComputerProject)
 [![Simulator](https://img.shields.io/badge/Web_Simulator-Clack--Studio-f59e0b?style=flat-square&logo=webassembly&logoColor=white)](https://clack-studio.relaiscomputer.at/studio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -41,7 +42,8 @@ We design, build, and program discrete relay-based computing machinery:
 | :--- | :--- | :--- |
 | **Hardware Architecture & Discrete Relays** | **Peter Prikasky** ([relaiscomputer.at](https://relaiscomputer.at)) | `hardware@relaycomputer.org` |
 | **Software Architecture, Compiler & Simulation** | **Christian Buchhas** ([relaycomputer.org](https://relaycomputer.org)) | `software@relaycomputer.org` |
-| **General Inquiries & Community** | **The Relay Computer Project** | `contact@relaycomputer.org` |
+| **Public Community Chat (Matrix)** | **The Relay Computer Project** | [`#relaycomputer:matrix.org`](https://matrix.to/#/#relaycomputer:matrix.org) |
+| **General Inquiries & Coordination** | **The Relay Computer Project** | `contact@relaycomputer.org` |
 
 ---
 
